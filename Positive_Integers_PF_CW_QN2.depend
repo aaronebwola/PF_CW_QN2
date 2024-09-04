@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725418115 source:c:\users\ocenh\desktop\programming fundamentals\positive_integers_pf_cw_qn2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
